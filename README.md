@@ -1,5 +1,5 @@
 # Turing-machine
-Simple Turing-Machine_Simulator programs
+Simple Turing-Machine-Simulator programs
 
 working in:
 https://turingmachinesimulator.com/
